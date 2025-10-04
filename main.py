@@ -48,3 +48,4 @@ while not the_end:
     ask_to_continue = input("Бажаєте продовжити? (так/ні): ").lower()
     if ask_to_continue == "ні":
         the_end = True
+
